@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/743421/!svn/ver/177/carcassonne/src/main/java/view
+END
+RotateEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/743421/!svn/ver/137/carcassonne/src/main/java/view/RotateEvent.java
+END
+AddPieceEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/743421/!svn/ver/163/carcassonne/src/main/java/view/AddPieceEvent.java
+END
+AddTileEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/743421/!svn/ver/163/carcassonne/src/main/java/view/AddTileEvent.java
+END
+ObserverView.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/743421/!svn/ver/174/carcassonne/src/main/java/view/ObserverView.java
+END
+PassEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/743421/!svn/ver/137/carcassonne/src/main/java/view/PassEvent.java
+END
+SwingBoard.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/743421/!svn/ver/177/carcassonne/src/main/java/view/SwingBoard.java
+END
+LocalBasicView.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/743421/!svn/ver/137/carcassonne/src/main/java/view/LocalBasicView.java
+END
+LocalSwingView.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/743421/!svn/ver/148/carcassonne/src/main/java/view/LocalSwingView.java
+END
+TilePanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/743421/!svn/ver/158/carcassonne/src/main/java/view/TilePanel.java
+END
+View.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/743421/!svn/ver/129/carcassonne/src/main/java/view/View.java
+END
+SwingView.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/743421/!svn/ver/177/carcassonne/src/main/java/view/SwingView.java
+END
+BasicView.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/743421/!svn/ver/160/carcassonne/src/main/java/view/BasicView.java
+END
+BoardText.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/743421/!svn/ver/137/carcassonne/src/main/java/view/BoardText.java
+END
+ReconnectEvent.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/743421/!svn/ver/164/carcassonne/src/main/java/view/ReconnectEvent.java
+END

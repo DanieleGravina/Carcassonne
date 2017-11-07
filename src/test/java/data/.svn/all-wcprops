@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/743421/!svn/ver/93/carcassonne/src/test/java/data
+END
+completedRoadAlgorithmTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/743421/!svn/ver/34/carcassonne/src/test/java/data/completedRoadAlgorithmTest.txt
+END
+notCompletedRoadAlgorithmTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/743421/!svn/ver/34/carcassonne/src/test/java/data/notCompletedRoadAlgorithmTest.txt
+END
+carcassonneTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/743421/!svn/ver/18/carcassonne/src/test/java/data/carcassonneTest.txt
+END
+completedCityAlgorithmTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/743421/!svn/ver/22/carcassonne/src/test/java/data/completedCityAlgorithmTest.txt
+END
+carcassonneGameTest.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/743421/!svn/ver/93/carcassonne/src/test/java/data/carcassonneGameTest.txt
+END

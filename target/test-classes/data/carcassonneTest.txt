@@ -1,0 +1,1 @@
+N=S S=S W=S E=S NS=0 NE=0 NW=0 WE=1 SE=0 SW=0

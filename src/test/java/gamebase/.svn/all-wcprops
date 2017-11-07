@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/743421/!svn/ver/175/carcassonne/src/test/java/gamebase
+END
+ConstructionAlgorithmTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/743421/!svn/ver/163/carcassonne/src/test/java/gamebase/ConstructionAlgorithmTest.java
+END
+ImplementedControllerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/743421/!svn/ver/170/carcassonne/src/test/java/gamebase/ImplementedControllerTest.java
+END
+CoordinatesTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/743421/!svn/ver/115/carcassonne/src/test/java/gamebase/CoordinatesTest.java
+END
+ServerViewSocketTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/743421/!svn/ver/164/carcassonne/src/test/java/gamebase/ServerViewSocketTest.java
+END
+UpdateInitObjectTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/743421/!svn/ver/115/carcassonne/src/test/java/gamebase/UpdateInitObjectTest.java
+END
+TileDeckTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/743421/!svn/ver/163/carcassonne/src/test/java/gamebase/TileDeckTest.java
+END
+UpdateInitFirstObjectTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/743421/!svn/ver/164/carcassonne/src/test/java/gamebase/UpdateInitFirstObjectTest.java
+END
+GameBoardTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/743421/!svn/ver/160/carcassonne/src/test/java/gamebase/GameBoardTest.java
+END
+BoardTextTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/743421/!svn/ver/151/carcassonne/src/test/java/gamebase/BoardTextTest.java
+END
+GameTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/743421/!svn/ver/160/carcassonne/src/test/java/gamebase/GameTest.java
+END
+ConstructionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/743421/!svn/ver/151/carcassonne/src/test/java/gamebase/ConstructionTest.java
+END
+AllTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/743421/!svn/ver/170/carcassonne/src/test/java/gamebase/AllTests.java
+END
+TileTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/743421/!svn/ver/160/carcassonne/src/test/java/gamebase/TileTest.java
+END
+AddPieceEventTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/743421/!svn/ver/156/carcassonne/src/test/java/gamebase/AddPieceEventTest.java
+END
+UpdateFinalObjectTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/743421/!svn/ver/147/carcassonne/src/test/java/gamebase/UpdateFinalObjectTest.java
+END
+SocketReverseControllerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/743421/!svn/ver/175/carcassonne/src/test/java/gamebase/SocketReverseControllerTest.java
+END
+CoordinatesTileTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/743421/!svn/ver/160/carcassonne/src/test/java/gamebase/CoordinatesTileTest.java
+END
+ColorTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/743421/!svn/ver/154/carcassonne/src/test/java/gamebase/ColorTest.java
+END
+PlayerTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/743421/!svn/ver/103/carcassonne/src/test/java/gamebase/PlayerTest.java
+END
+DirectionTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/743421/!svn/ver/131/carcassonne/src/test/java/gamebase/DirectionTest.java
+END

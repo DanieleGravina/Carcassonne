@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/743421/!svn/ver/174/carcassonne/src/main/java/gamebase
+END
+Algorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/743421/!svn/ver/118/carcassonne/src/main/java/gamebase/Algorithm.java
+END
+ConstructionAlgorithm.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/743421/!svn/ver/163/carcassonne/src/main/java/gamebase/ConstructionAlgorithm.java
+END
+Tile.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/743421/!svn/ver/174/carcassonne/src/main/java/gamebase/Tile.java
+END
+Phase.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/743421/!svn/ver/157/carcassonne/src/main/java/gamebase/Phase.java
+END
+TileDeck.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/743421/!svn/ver/163/carcassonne/src/main/java/gamebase/TileDeck.java
+END
+GameBoard.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/743421/!svn/ver/174/carcassonne/src/main/java/gamebase/GameBoard.java
+END
+Game.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/743421/!svn/ver/171/carcassonne/src/main/java/gamebase/Game.java
+END
+Player.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/743421/!svn/ver/118/carcassonne/src/main/java/gamebase/Player.java
+END

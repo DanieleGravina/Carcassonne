@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/743421/!svn/ver/174/carcassonne/src/main/java/model
+END
+EventHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/743421/!svn/ver/172/carcassonne/src/main/java/model/EventHandler.java
+END
+GameFinishedUpdateHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/743421/!svn/ver/174/carcassonne/src/main/java/model/GameFinishedUpdateHandler.java
+END
+UpdateFinalHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/743421/!svn/ver/172/carcassonne/src/main/java/model/UpdateFinalHandler.java
+END
+ObservableModelImplementation.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/743421/!svn/ver/172/carcassonne/src/main/java/model/ObservableModelImplementation.java
+END
+UpdatePieceHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/743421/!svn/ver/172/carcassonne/src/main/java/model/UpdatePieceHandler.java
+END
+UpdateRotationHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/743421/!svn/ver/172/carcassonne/src/main/java/model/UpdateRotationHandler.java
+END
+NumberOfPlayerErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/743421/!svn/ver/172/carcassonne/src/main/java/model/NumberOfPlayerErrorHandler.java
+END
+MutableModel.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/743421/!svn/ver/172/carcassonne/src/main/java/model/MutableModel.java
+END
+UpdateInitFirstHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/743421/!svn/ver/172/carcassonne/src/main/java/model/UpdateInitFirstHandler.java
+END
+UpdateTileHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/743421/!svn/ver/172/carcassonne/src/main/java/model/UpdateTileHandler.java
+END
+ErrorHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/743421/!svn/ver/172/carcassonne/src/main/java/model/ErrorHandler.java
+END
+UpdateInitHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/743421/!svn/ver/172/carcassonne/src/main/java/model/UpdateInitHandler.java
+END

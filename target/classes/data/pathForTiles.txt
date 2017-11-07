@@ -1,0 +1,17 @@
+N=N S=C W=S E=S NS=0 NE=0 NW=0 WE=1 SE=0 SW=0 src/main/java/data/tile-a.png
+N=S S=S W=S E=S NS=0 NE=0 NW=0 WE=0 SE=0 SW=0 src/main/java/data/tile-b.png
+N=C S=S W=S E=N NS=0 NE=0 NW=0 WE=0 SE=0 SW=1 src/main/java/data/tile-c.png
+N=C S=N W=N E=C NS=0 NE=0 NW=0 WE=0 SE=0 SW=0 src/main/java/data/tile-d.png
+N=C S=N W=S E=S NS=0 NE=0 NW=0 WE=1 SE=0 SW=0 src/main/java/data/tile-s.png
+N=C S=S W=N E=S NS=0 NE=0 NW=0 WE=0 SE=1 SW=0 src/main/java/data/tile-f.png
+N=N S=N W=C E=C NS=0 NE=0 NW=0 WE=1 SE=0 SW=0 src/main/java/data/tile-g.png
+N=C S=S W=C E=C NS=0 NE=1 NW=1 WE=1 SE=0 SW=0 src/main/java/data/tile-h.png
+N=C S=C W=N E=N NS=0 NE=0 NW=0 WE=0 SE=0 SW=0 src/main/java/data/tile-t.png
+N=C S=S W=S E=S NS=0 NE=0 NW=0 WE=0 SE=0 SW=0 src/main/java/data/tile-e.png
+N=N S=S W=S E=S NS=0 NE=0 NW=0 WE=0 SE=0 SW=0 src/main/java/data/tile-l.png
+N=C S=N W=C E=C NS=0 NE=1 NW=1 WE=1 SE=0 SW=0 src/main/java/data/tile-m.png
+N=C S=N W=N E=N NS=0 NE=0 NW=0 WE=0 SE=0 SW=0 src/main/java/data/tile-n.png
+N=C S=S W=C E=S NS=0 NE=0 NW=1 WE=0 SE=0 SW=0 src/main/java/data/tile-o.png
+N=C S=N W=C E=N NS=0 NE=0 NW=1 WE=0 SE=0 SW=0 src/main/java/data/tile-p.png
+N=S S=S W=N E=N NS=1 NE=0 NW=0 WE=0 SE=0 SW=0 src/main/java/data/tile-q.png
+N=N S=S W=S E=N NS=0 NE=0 NW=0 WE=0 SE=0 SW=1 src/main/java/data/tile-r.png
